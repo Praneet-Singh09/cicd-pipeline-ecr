@@ -1,5 +1,5 @@
-from app import add
 
+from app import add
 
 
 def test_add_positive_numbers():
